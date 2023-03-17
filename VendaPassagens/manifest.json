@@ -1,0 +1,29 @@
+{
+  "name": "Express Travel",
+  "short_name": "Express",
+  "icons": [
+    {
+      "src": "images/travel128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+  
+    {
+      "src": "images/travel256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/travel512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#31506F",
+  "theme_color": "#4D5360"
+}
